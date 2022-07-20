@@ -1,0 +1,43 @@
+patient_name,insurance_company,test_name,test_result,test_time,ward,room,date_admitted,date_tested,date_released
+Arou Isaac,Rising Star Insurance,MRI ,Torn Ligaments,12:34:20,Ward 1,101,12/30/2020,12/30/2020,12/31/2020
+Munji James Alala,Premier  Insurance,Blood Test,Malaria Positive,13:23:30,Ward 3,301,11/15/2020,11/15/2020,11/16/2020
+Ian Akampa,Gold Star Insurance,MRI ,Ligaments Normal,8:29:09,Ward 2,201,8/4/2020,8/4/2020,8/5/2020
+Charles Lwanga ,Rising Star Insurance,HIV Test,HIV Positve,19:09:51,Ward 5 ,534,11/4/2020,11/4/2020,11/5/2020
+Vien Bamyanyisa,Gold Star Insurance,Blood Test,Malaria Negative,21:08:12,Ward 1,104,6/8/2020,6/8/2020,6/9/2020
+Sally Nafi,Premier  Insurance,HIV Test,HIV Negative,15:16:32,Ward 2,234,3/7/2020,3/7/2020,3/9/2020
+Matthew Bangi,Rising Star Insurance,MRI ,Tumor Detected,8:17:31,Ward 5 ,564,7/8/2020,7/8/2020,7/9/2020
+Bahiga Henri,Gold Star Insurance,MRI ,No Tumors Present,7:13:45,Ward 4,454,1/14/2020,1/14/2020,1/15/2020
+Mutua Bryan,Jubilee Insurace,HIV Test,HIV Negative,16:45:46,Ward 2,259,2/16/2020,2/16/2020,2/17/2020
+Lexi Michelle,Jubilee Insurace,Blood Test,Malaria Negative,18:09:12,Ward 4,402,2/2/2020,2/2/2020,2/10/2020
+Becky Smith,Rising Star Insurance,Blood Test,Malaria Positive,21:21:50,Ward 4,469,5/5/2020,5/5/2020,5/12/2020
+Koor Koth,Premier  Insurance,Liver Function Test,Functioning,14:12:47,Ward 5 ,583,10/27/2020,10/27/2020,11/27/2020
+Mabil Mawut,Rising Star Insurance,MRI ,Tumor Detected,18:06:07,Ward 4,439,4/19/2020,4/19/2020,4/20/2020
+Hussain Wahid,Jubilee Insurace,HIV Test,HIV Positve,13:48:09,Ward 2,205,3/23/2020,3/23/2020,3/23/2020
+Jenny Smith,Premier  Insurance,Blood Test,Malaria Negative,17:15:06,Ward 3,322,1/1/2020,1/1/2020,1/1/2020
+Lerato Mbale,Gold Star Insurance,HIV Test,HIV Positve,6:05:31,Ward 4,472,3/12/2020,3/12/2020,3/13/2020
+Bongekile Sizwayo,Triad Insurance,X-Ray,Fibula Fracture,14:14:34,Ward 1,123,1/3/2020,1/3/2020,2/3/2020
+Martin Lubambo,Jubilee Insurace,Liver Function Test,Functioning,16:41:23,Ward 2,223,1/1/2020,1/1/2020,1/1/2020
+Jemima Hussain,Triad Insurance,Liver Function Test,Damaged,15:12:40,Ward 5 ,583,8/20/2020,8/20/2020,10/20/2020
+Juma Ismail,Gold Star Insurance,X-Ray,Tibula Fracture,17:42:47,Ward 2,213,1/19/2019,1/19/2019,3/19/2019
+Birungi Oscar,Jubilee Insurace,MRI ,Tumor Detected,15:56:48,Ward 2,204,12/12/2020,12/12/2020,12/12/2020
+Julia Sharon,Triad Insurance,HIV Test,HIV Negative,9:48:58,Ward 5 ,503,3/3/2020,3/3/2020,3/4/2020
+Becky Harriet,Triad Insurance,X-Ray,Bones Fine,12:32:07,Ward 2,299,6/9/2020,6/9/2020,7/9/2020
+Kiconco Rinah,Jubilee Insurace,Blood Test,Malaria Negative,13:15:13,Ward 4,410,1/13/2020,1/13/2020,1/14/2020
+Esther Kanera,Jubilee Insurace,X-Ray,Fibula Fracture,13:13:39,Ward 1,130,9/21/2020,9/21/2020,11/21/2020
+Shelly Ann,Premier  Insurance,MRI ,No Tumors Present,16:47:40,Ward 5 ,590,12/21/2020,12/21/2020,12/21/2020
+Julius James Alala,Triad Insurance,Liver Function Test,Functioning,12:24:32,Ward 2,206,5/21/2020,5/21/2020,5/21/2020
+Bagi Hammoud ,Jubilee Insurace,MRI ,No Tumors Present,8:18,Ward 5 ,507,12/8/2020,12/8/2020,12/8/2020
+Rachida Mohamed,Jubilee Insurace,HIV Test,HIV Positve,13:13:42,Ward 1,167,9/21/2020,9/21/2020,9/21/2020
+Gezawi Ahmed ,Triad Insurance,Blood Test,Malaria Positive,17:13:20,Ward 4,403,8/5/2020,8/5/2020,8/6/2020
+Alinda Martha ,Triad Insurance,Liver Function Test,Damaged,18:12:12,Ward 4,423,7/20/2020,7/20/2020,9/20/2020
+Allan Smith,Jubilee Insurace,Blood Test,Malaria Positive,9:13:32,Ward 5 ,573,7/13/2020,7/13/2020,7/13/2020
+Arbert Friday,Rising Star Insurance,HIV Test,HIV Negative,9:57:10,Ward 2,294,5/27/2020,5/27/2020,5/27/2020
+Shariffa Ismail,Jubilee Insurace,HIV Test,HIV Positve,14:12:09,Ward 4,479,10/3/2020,10/3/2020,10/3/2020
+Moga Muzamil,Jubilee Insurace,Liver Function Test,Damaged,13:11:12,Ward 3,389,2/20/2020,2/20/2020,4/20/2020
+Haasan Ahmed,Gold Star Insurance,Blood Test,Malaria Positive,11:13:12,Ward 5 ,536,3/2/2020,3/2/2020,3/2/2020
+Muwalid Shemsa,Gold Star Insurance,X-Ray,Tibula Fracture,11:32:23,Ward 2,254,3/28/2020,3/28/2020,5/28/2020
+Abdi Shemsa,Rising Star Insurance,MRI ,No Tumors Present,11:12:32,Ward 4,476,7/20/2020,7/20/2020,7/20/2020
+Lewis Hamilton,Premier  Insurance,MRI ,Tumor Detected,13:13:35,Ward 3,346,10/8/2020,10/8/2020,10/9/2020
+George Russel,Jubilee Insurace,MRI ,Tumor Detected,17:21:00,Ward 2,290,12/20/2020,12/20/2020,12/21/2020
+Valterri Bottas,Premier  Insurance,Blood Test,Malaria Negative,13:33:43,Ward 3,315,6/3/2020,6/3/2020,6/4/2020
+Sebastian Vettel,Premier  Insurance,X-Ray,Tibula Fracture,17:45:50,Ward 4,458,3/4/2020,3/4/2020,3/4/2020

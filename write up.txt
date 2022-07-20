@@ -1,0 +1,2 @@
+My project is a simple hospital record book. 
+Patients are put in as well as their test results and the insurance company that would take care of their treatment.

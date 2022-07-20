@@ -1,0 +1,6 @@
+Project Queries.
+1.SELECT COUNT(DISTINCT(patient_name)) FROM patients;
+2. SELECT * FROM patients;
+3.SELECT test_result FROM test WHERE test_id IN(SELECT test_id FROM relations WHERE patient_id IN(SELECT patient_id FROM patients));
+4. SELECT patient_name FROM patients JOIN relations JOIN test ON test.test_id =relations.test_id AND relations.patient_id= patients.patient_id WHERE test_name LIKE "%MRI%";
+5. SELECT patient_name, test_name FROM patients JOIN relations JOIN test ON test.test_id = relations.test_id AND relations.patient_id = patients.patient_id;
