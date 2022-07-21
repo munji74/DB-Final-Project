@@ -1,0 +1,5 @@
+My project is a simple hospital record book. 
+It contains three tables that shows their names, their admission information and their medical test information.
+The first table is the patients table which details their names and the insurance company they use.
+The second table, the admission table includes the rooms in the wards that they were assigned to with the dates they were admitted into the hospital as well as the dates they were discharged from the hospital.
+The third table, test table shows the test name, time of the day the test was taken as well the test result.
